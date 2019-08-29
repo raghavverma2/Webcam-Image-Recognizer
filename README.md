@@ -8,6 +8,7 @@ https://vimeo.com/355649576
 This is a demo of the application in action, identifying a water bottle, sunglasses, a shoe and an umbrella with a high degree of confidence.
 
 <h3> Samples </h3>
+
 ![Image of combination lock](https://raw.githubusercontent.com/raghavverma2/Webcam-Image-Recognizer/master/samples/combination_lock.png)
 
 ![Image of iPhone](https://raw.githubusercontent.com/raghavverma2/Webcam-Image-Recognizer/master/samples/iPhone.png)
